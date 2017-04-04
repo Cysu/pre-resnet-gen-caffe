@@ -80,7 +80,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -159,7 +159,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -206,7 +206,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -260,7 +260,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -307,7 +307,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -354,7 +354,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -408,7 +408,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -455,7 +455,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -502,7 +502,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -556,7 +556,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -623,7 +623,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -670,7 +670,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -724,7 +724,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -771,7 +771,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -818,7 +818,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -872,7 +872,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -919,7 +919,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -966,7 +966,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1020,7 +1020,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1067,7 +1067,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1114,7 +1114,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1168,7 +1168,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1235,7 +1235,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1282,7 +1282,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1336,7 +1336,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1383,7 +1383,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1430,7 +1430,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1484,7 +1484,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1531,7 +1531,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1578,7 +1578,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1632,7 +1632,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1679,7 +1679,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1726,7 +1726,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1780,7 +1780,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1827,7 +1827,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1874,7 +1874,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1928,7 +1928,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -1975,7 +1975,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -2022,7 +2022,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -2076,7 +2076,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -2143,7 +2143,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -2190,7 +2190,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -2244,7 +2244,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -2291,7 +2291,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -2338,7 +2338,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -2392,7 +2392,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -2439,7 +2439,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -2486,7 +2486,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }
@@ -2540,7 +2540,7 @@ layer {
     }
     bias_term: true
     bias_filler {
-      value: 1
+      value: 0
     }
   }
 }

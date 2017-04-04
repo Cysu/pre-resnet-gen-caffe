@@ -101,7 +101,7 @@ def Act(name, bottom):
     scale_layer.top.extend([top_name])
     scale_layer.scale_param.filler.value = 1
     scale_layer.scale_param.bias_term = True
-    scale_layer.scale_param.bias_filler.value = 1
+    scale_layer.scale_param.bias_filler.value = 0
     # ReLU
     relu_layer = caffe_pb2.LayerParameter()
     relu_layer.name = name + '_relu'
